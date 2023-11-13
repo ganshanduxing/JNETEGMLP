@@ -1,6 +1,6 @@
 # JNETEGMLP
-该项目是论文《A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme》的实现代码，实现了图像加密算法以及针对密文图像的检索模型。<br/>
-This project is the implementation code of the paper 《A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme》, which realizes the image encryption algorithm and the retrieval model for ciphertext images.
+该项目是论文《A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme》的实现代码，实现了图像加密算法以及针对密文图像的端到端检索模型。<br/>
+This project is the implementation code of the paper 《A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme》, which realizes the image encryption algorithm and the end to end retrieval model for ciphertext images.
 # 项目声明 Project Statement
 本项目的作者及单位：<br/>
 The author and affiliation of this project: <br/>
